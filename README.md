@@ -1,6 +1,12 @@
-# 《Tomcat内核设计剖析》
+﻿# 《Tomcat内核设计剖析》
 
-鄙人的新书《Tomcat内核设计剖析》已经在京东预售了，有需要的朋友可以通过文末的连接进行预定。感谢各位朋友。
+鄙人的新书《Tomcat内核设计剖析》已经在京东销售了，有需要的朋友可以通过文末的连接进行预定。感谢各位朋友。
+
+[为什么写《Tomcat内核设计剖析》](http://blog.csdn.net/wangyangzhizhou/article/details/74080321)
+
+[我的Tomcat内核专栏](http://blog.csdn.net/column/details/tomcat-.html)
+
+[我的博客](http://blog.csdn.net/wangyangzhizhou)
 
 本书特色？
 
